@@ -1,0 +1,14 @@
+<templateSet group="Mongoose">
+  <template name="schema" value="const mongoose = require('mongoose');&#10;const {ObjectId} = mongoose.Schema.Types;&#10;const createSchema = require.main.require('./mongoose/create-schema');&#10;const Trimmed = { type: String, trim: true };&#10;&#10;const $fileName$Schema = new mongoose.Schema({&#10;  $END$&#10;  createdDate: {type: Date, default: Date.now},&#10;  lastModifiedDate: {type: Date, default: Date.now},&#10;  createdBy: {&#10;    id: {type: ObjectId, ref: 'User'},&#10;    type: Trimmed&#10;  },&#10;  lastModifiedBy: {&#10;    id: {type: ObjectId, ref: 'User'},&#10;    type: Trimmed &#10;  }&#10;});&#10;&#10;module.exports = createSchema($fileName$Schema);" description="mongoose schema" toReformat="false" toShortenFQNames="true">
+    <variable name="fileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="rel" value=" {&#10;  id: { type: ObjectId, ref: '$TYPE$' },&#10;  type: Trimmed &#10;}$END$" description="mongoose relationship" toReformat="false" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
