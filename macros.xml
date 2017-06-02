@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Prettify and Save All">
+      <action id="Tool_External Tools_Prettier" />
+      <action id="SaveAll" />
+    </macro>
+  </component>
+</application>
