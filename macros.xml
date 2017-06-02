@@ -1,9 +1,0 @@
-<application>
-  <component name="ActionMacroManager">
-    <macro name="Format and Save">
-      <action id="Javascript.Linters.EsLint.Fix" />
-      <action id="Tool_External Tools_Prettier" />
-      <action id="SaveAll" />
-    </macro>
-  </component>
-</application>
