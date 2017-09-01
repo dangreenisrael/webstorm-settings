@@ -1,7 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".jest" type="JSON" />
+      <mapping ext="jest" type="JSON" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
+      <mapping ext="mkv" type="PLAIN_TEXT" />
+      <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>

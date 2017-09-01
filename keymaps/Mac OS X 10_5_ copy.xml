@@ -14,6 +14,9 @@
     <keyboard-shortcut first-keystroke="shift meta s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="Macro.Prettify and Save All">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
   <action id="ReformatCode" />
   <action id="SavaAs" />
   <action id="SaveAll" />
