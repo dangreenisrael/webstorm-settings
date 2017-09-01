@@ -1,12 +1,6 @@
 <application>
   <component name="libraryTable">
     <library name="angular-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_angular_index.d.ts" />
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_angular_angular-component-router.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_angular_index.d.ts" />
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_angular_angular-component-router.d.ts" />
@@ -14,22 +8,12 @@
       <SOURCES />
     </library>
     <library name="angular-ui-router-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_angular-ui-router_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_angular-ui-router_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="express-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_express_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_express_index.d.ts" />
       </CLASSES>
@@ -47,22 +31,12 @@
       <SOURCES />
     </library>
     <library name="node-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_node_index.d.ts" />
       </CLASSES>
       <SOURCES />
     </library>
     <library name="react-DefinitelyTyped" type="javaScript">
-      <properties>
-        <sourceFilesUrls>
-          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
-        </sourceFilesUrls>
-      </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_DefinitelyTyped_DefinitelyTyped_raw_master_types_react_index.d.ts" />
       </CLASSES>
